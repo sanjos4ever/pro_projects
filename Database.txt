@@ -1,0 +1,29 @@
+
+
+
+--------------------------------------
+'s Details
+--------------------------------------
+
+
+Name:  
+Email:  
+Admission Number:  
+Date of Birth:  
+Mobile Number:  
+Aadhar ID:  
+Book Choosen:  
+
+
+--------------------------------------
+Alan's Details
+--------------------------------------
+
+
+Name:  Alan
+Email:  alanmj1800@gmail.com
+Admission Number:  3115
+Date of Birth:  25/05/2006
+Mobile Number:  9496250413
+Aadhar ID:  12345678912345
+Book Choosen:  Sherlock Holmes
